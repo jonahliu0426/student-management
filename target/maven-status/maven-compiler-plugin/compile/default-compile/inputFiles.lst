@@ -1,0 +1,13 @@
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/model/UniversityClass.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/exceptions/InvalidUniversityClassException.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/service/UniversityClassService.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/api/UniversityClassController.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/StudentsManagementApplication.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/service/StudentService.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/api/StudentController.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/dao/StudentDao.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/dao/UniversityClassDao.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/exceptions/StudentNonExistException.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/model/Student.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/mapper/StudentMapper.java
+/Users/jia78/Desktop/students-management/src/main/java/com/example/studentsmanagement/exceptions/StudentEmptyNameException.java
