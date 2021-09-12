@@ -17,7 +17,7 @@ localhost:8080/api/student/name?name={param1}&age={param2} -> return all student
 
 localhost:8080/api/class   -> return all classes info
 
-              /api/student/contain_name?name={parameter} -> return all students whose name contains the character specified in the parameter
+localhost:8080/api/student/contain_name?name={parameter} -> return all students whose name contains the character specified in the parameter
           
 
 POST:
