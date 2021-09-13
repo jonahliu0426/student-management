@@ -7,6 +7,7 @@
 In order to perform post method, you can use Postman, 
 before sending, you should click the Authentication bar,
 and type in the username and password
+
  username: root
  password: 11111
 
