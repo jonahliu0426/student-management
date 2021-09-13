@@ -13,6 +13,7 @@ and type in the username and password
  password: 11111
 
 GET:
+
 localhost:8080/api/student -> return all students info
 
 localhost:8080/api/student/name?name={param1}&age={param2} -> return all students whose name equals to the name specified in param1, and whose age equals to specified in param2
@@ -23,6 +24,7 @@ localhost:8080/api/student/contain_name?name={parameter} -> return all students 
           
 
 POST:
+
 localhost:8080/api/class/add, 
 In the body bar, select row button, and chenge the format to JSON, next type in  the param key and value in JSON format.
 
